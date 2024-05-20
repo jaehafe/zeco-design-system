@@ -1,0 +1,182 @@
+[
+  {
+    "height=h56, style=Primary, state=default": {
+      "value": "#08846E"
+    }
+  },
+  {
+    "height=h56, style=Secondary, state=default": {
+      "value": "#E4F3E6"
+    }
+  },
+  {
+    "height=h56, style=Teritory, state=default": {
+      "value": "#FFFFFF"
+    }
+  },
+  {
+    "height=h56, style=disabled, state=disabled": {
+      "value": "#E7E7E7"
+    }
+  },
+  {
+    "height=h56, style=delete, state=delete": {
+      "value": "#FFD7D7"
+    }
+  },
+  {
+    "height=h48, style=Primary, state=default": {
+      "value": "#08846E"
+    }
+  },
+  {
+    "height=h48, style=Secondary, state=default": {
+      "value": "#E4F3E6"
+    }
+  },
+  {
+    "height=h48, style=Teritory, state=default": {
+      "value": "#FFFFFF"
+    }
+  },
+  {
+    "height=h48, style=disabled, state=disabled": {
+      "value": "#E7E7E7"
+    }
+  },
+  {
+    "height=h48, style=delete, state=delete": {
+      "value": "#FFD7D7"
+    }
+  },
+  {
+    "height=h40, style=Primary, state=default": {
+      "value": "#08846E"
+    }
+  },
+  {
+    "height=h40, style=Secondary, state=default": {
+      "value": "#E4F3E6"
+    }
+  },
+  {
+    "height=h40, style=Teritory, state=default": {
+      "value": "#FFFFFF"
+    }
+  },
+  {
+    "height=h40, style=disabled, state=disabled": {
+      "value": "#E7E7E7"
+    }
+  },
+  {
+    "height=h40, style=delete, state=delete": {
+      "value": "#FFD7D7"
+    }
+  },
+  {
+    "height=h32, style=Primary, state=default": {
+      "value": "#08846E"
+    }
+  },
+  {
+    "height=h32, style=Secondary, state=default": {
+      "value": "#E4F3E6"
+    }
+  },
+  {
+    "height=h32, style=Teritory, state=default": {
+      "value": "#FFFFFF"
+    }
+  },
+  {
+    "height=h32, style=disabled, state=disabled": {
+      "value": "#E7E7E7"
+    }
+  },
+  {
+    "height=h32, style=delete, state=delete": {
+      "value": "#FFD7D7"
+    }
+  },
+  {
+    "Property 1=h56, Property 2=Primary, Property 3=hover": {
+      "value": "#3A7A6F"
+    }
+  },
+  {
+    "Property 1=h56, Property 2=Secondary, Property 3=hover": {
+      "value": "#D8E0D9"
+    }
+  },
+  {
+    "Property 1=h56, Property 2=Teritory, Property 3=hover": {
+      "value": "#FFFFFF"
+    }
+  },
+  {
+    "Property 1=h56, Property 2=delete, Property 3=hover": {
+      "value": "#FFBDC5"
+    }
+  },
+  {
+    "Property 1=h48, Property 2=Primary, Property 3=hover": {
+      "value": "#3A7A6F"
+    }
+  },
+  {
+    "Property 1=h48, Property 2=Secondary, Property 3=hover": {
+      "value": "#D8E0D9"
+    }
+  },
+  {
+    "Property 1=h48, Property 2=Teritory, Property 3=hover": {
+      "value": "#FFFFFF"
+    }
+  },
+  {
+    "Property 1=h48, Property 2=delete, Property 3=hover": {
+      "value": "#FFBDC5"
+    }
+  },
+  {
+    "Property 1=h40, Property 2=Primary, Property 3=hover": {
+      "value": "#3A7A6F"
+    }
+  },
+  {
+    "Property 1=h40, Property 2=Secondary, Property 3=hover": {
+      "value": "#D8E0D9"
+    }
+  },
+  {
+    "Property 1=h40, Property 2=Teritory, Property 3=hover": {
+      "value": "#FFFFFF"
+    }
+  },
+  {
+    "Property 1=h40, Property 2=delete, Property 3=hover": {
+      "value": "#FFBDC5"
+    }
+  },
+  {
+    "Property 1=h32, Property 2=Primary, Property 3=hover": {
+      "value": "#3A7A6F"
+    }
+  },
+  {
+    "Property 1=h32, Property 2=Secondary, Property 3=hover": {
+      "value": "#D8E0D9"
+    }
+  },
+  {
+    "Property 1=h32, Property 2=Teritory, Property 3=hover": {
+      "value": "#FFFFFF"
+    }
+  },
+  {
+    "Property 1=h32, Property 2=delete, Property 3=hover": {
+      "value": "#FFBDC5"
+    }
+  }
+]
