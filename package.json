@@ -1,6 +1,6 @@
 {
   "name": "zeco-design-system",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "design system for zeco",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
